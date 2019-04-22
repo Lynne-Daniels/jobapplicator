@@ -1,0 +1,16 @@
+# OS Files
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Log Files
+*.log
+
+# Local Env Files
+.env.local
+.env.*.local
+.env
+
+# google API
+credentials.json
